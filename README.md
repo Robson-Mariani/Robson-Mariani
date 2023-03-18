@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil RObi Dev 😁
+## Bem-vindo(a) ao perfil Robson Mariani 😁
 
  <div>
-   <a href="https://github.com/R0bi-Dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0bi-Dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0bi-Dev&layout=compact&langs_count=6&theme=gruvbox"/>
+   <a href="https://github.com/robson-mariani">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robson-mariani&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-mariani&layout=compact&langs_count=6&theme=gruvbox"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   <a href = "mailto:robidev94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/R0bi-Dev/R0bi-Dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/robson-mariani/robson-mariani/blob/output/github-contribution-grid-snake.svg)
 
 </div>
